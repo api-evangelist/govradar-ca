@@ -64,7 +64,7 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Government Radar monitors Canadian federal and provincial government news releases and delivers a filtered email digest each weekday morning to government relations, public affairs and policy professionals. It offers a free trial and paid subscription plans.
+Government Radar monitors every federal and provincial government news release in Canada, filtering them by topics, jurisdictions and custom keywords, and delivers a concise email digest each weekday morning. It serves government relations, public affairs and policy professionals with a free trial and paid subscription plans, providing timely insights for informed decision‑making.
 
 **Areas:** Company · government · news · monitoring · email · Canada
 
@@ -72,15 +72,78 @@ Government Radar monitors Canadian federal and provincial government news releas
 
 Everything profiled for Government Radar is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/govradar-ca/](https://apis.io/providers/govradar-ca/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [Government Radar API](https://apis.io/apis/govradar-ca/government-radar-api/) — API documentation for Government Radar, providing access to Canadian government news data.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Government Radar Domain Security](https://apis.io/security/govradar-ca/govradar-ca-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Government Radar Plans Pricing](https://apis.io/plans/govradar-ca/govradar-ca-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://govradar.ca/)
+- [Documentation](https://www.govradar.ca/guides)
+- [Terms of service](https://www.govradar.ca/terms)
+- [Privacy policy](https://www.govradar.ca/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/govradar-ca/](https://apis.io/providers/govradar-ca/).
+**Kin Score 18.5** — emerging · rubric 0.27.0 · scored 2026-11-11
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 53.2 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 13.7** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/govradar-ca/](https://apis.io/providers/govradar-ca/).
 
 ## How this profile is made
 
